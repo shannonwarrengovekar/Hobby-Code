@@ -1,0 +1,4 @@
+/home/cerlab/sandbox/person/build/CMakeFiles/rebuild_cache.dir
+/home/cerlab/sandbox/person/build/CMakeFiles/edit_cache.dir
+/home/cerlab/sandbox/person/build/CMakeFiles/personTest.dir
+/home/cerlab/sandbox/person/build/CMakeFiles/person.dir

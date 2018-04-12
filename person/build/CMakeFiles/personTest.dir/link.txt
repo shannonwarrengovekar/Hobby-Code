@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/personTest.dir/src/Main.cpp.o  -o personTest -Wl,-rpath,/home/cerlab/sandbox/person/build libperson.so 
